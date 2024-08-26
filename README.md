@@ -1,3 +1,6 @@
+#Live link
+https://weather-c498hubsu-gyan-prakashs-projects-24011a06.vercel.app/
+
 # About This Application
 
 This application is used to show current weather data and 5 day forecast of selected city.
@@ -8,7 +11,7 @@ Enter city for which yoy want to know temperature details and click on search bu
 
 If you want to change units of temperature then click on unit name on right most side.
 
-# To run application locally
+# To run application locally in your PC
 
 Install all package that are available in package.json file.
 
