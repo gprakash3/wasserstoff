@@ -1,6 +1,22 @@
-# Getting Started with Create React App
+# About This Application
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This application is used to show current weather data and 5 day forecast of selected city.
+
+By default, Delhi is selected as city.
+
+Enter city for which yoy want to know temperature details and click on search button.
+
+If you want to change units of temperature then click on unit name on right most side.
+
+# To run application locally
+
+Install all package that are available in package.json file.
+
+Add .env file which will have your API key.
+
+To run Application - type 'npm start' 
+
+Application will run
 
 ## Available Scripts
 
