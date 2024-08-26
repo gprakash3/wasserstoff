@@ -24,7 +24,7 @@
 }
 
 .icon img {
-    width: 100px; /* Adjust size as needed */
+    width: 100px;
     height: auto;
 }
 
@@ -63,23 +63,17 @@
 
 .min-max p{
     font-size: 1em;
-    /* color: white; */
+    
 }
 
 .detail {
     font-size: 1em;
     justify-content: center;
     align-items: center;
-    /* color: #555; */
+    
 }
 
 .detail p {
     margin-bottom: 10px;
 }
 
-/* Responsive adjustments */
-/* @media (max-width: 768px) {
-    .current-Weather {
-        width: 80%;
-    }
-} */
