@@ -3,11 +3,9 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
-    /* padding: 10px 20px; */
     background-color: #75a0d4;
     color: #fff;
     height: 50px;
-    /* gap:600px */
 }
 
 .container_inputBox {
@@ -26,14 +24,12 @@
     margin-left: 3px;
     padding: 3px 10px;
     width: min-content;
-    /* background-color: #007bff; */
     border: none;
-    /* color: white; */
     cursor: pointer;
 }
 
 .toggle-unit {
-    width: 30%;
+    width: max-content;
     display: flex;
     justify-content:space-around;
     align-items: center;
@@ -42,8 +38,11 @@
 }
 
 .text-line {
-    margin-left: 30%;
+    width: 100%;
+    margin-left: 20%;
+    font-size: 1 rem;
 }
+
 
 @media only screen and (max-width: 767px) {
     .navbar-container{

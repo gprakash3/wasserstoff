@@ -1,8 +1,9 @@
 .unit-button{
+    margin-right: 20px;
     padding: 5px 10px;
     width: auto;
     background-color: #75a0d4;
-    border:1px #020c63;
+    /* border:1px #020c63; */
     border-radius: 10px;
     color: white;
     cursor: pointer;

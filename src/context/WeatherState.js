@@ -33,7 +33,7 @@ const [alert, setAlert] = useState(null);
     });
     setTimeout(() => {
       setAlert(null);
-    }, 1500);
+    }, 1800);
    }
     
   return (
