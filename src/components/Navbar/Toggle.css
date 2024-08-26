@@ -1,0 +1,22 @@
+.unit-button{
+    padding: 5px 10px;
+    width: auto;
+    background-color: #75a0d4;
+    border:1px #020c63;
+    border-radius: 10px;
+    color: white;
+    cursor: pointer;
+}
+
+@media only screen and (max-width: 767px) {
+    .unit-button{
+        font-size: 0.8rem;
+        padding: 5px 10px;
+        width: auto;
+        background-color: #75a0d4;
+        border: none;
+        color: white;
+        cursor: pointer;
+    }
+
+}

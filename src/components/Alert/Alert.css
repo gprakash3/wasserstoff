@@ -1,0 +1,29 @@
+.container{
+    height:"30px";
+     margin:"0px 0px 20px 0px"
+}
+
+.texts{
+    color: red;
+    background-color: yellow;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    
+}
+
+@media only screen and (max-width: 767px) {
+    .container{
+        height:"20px";
+         margin:"0px 0px 20px 0px"
+    }
+    
+    .texts{
+        color: red;
+        background-color: yellow;
+        justify-content: center;
+        align-items: center;
+        display: flex;
+        
+    }
+}

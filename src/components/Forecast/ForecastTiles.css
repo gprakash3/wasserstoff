@@ -1,0 +1,31 @@
+.forecast-tile{
+    background-color: rgba(255, 255, 255, 0.1);
+  padding: 10px;
+  border-radius: 8px;
+  display: flex;
+  gap:20px;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 15px;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+}
+
+.day-tiles{
+    width: max-content;
+    color: white;
+}
+
+.description{
+    width: min-content;
+}
+
+.description img{
+    width: 50px;
+    padding: 0%;
+    margin-bottom: 0%;
+}
+
+.description p{
+    padding-top: 0px;
+    font-size: small;
+}
